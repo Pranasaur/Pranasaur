@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Pranasaur (AKA BOSS MAN STANLAND)
-- 👀 I’m interested in getting advice from you bananas
-- 🌱 I’m currently learning some coding stuff
-- 💞️ I’m looking to collaborate on things
-- 📫 How to reach me is something you shouldn't know. Got it. 
+- 👋 Hi, I’m @Pranasaur, working on learning HTML. Based in Singapore
+- 👀 I want to make websites that can be fun and informative. 
+- 🌱 I've taken coding classes since 2020. 
+- 💞️ Not collaborating just yet. Maybe another time
+- 📫 Reaching me isn't available yet. Maybe one day
+- 
 
 <!---
 Pranasaur/Pranasaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
